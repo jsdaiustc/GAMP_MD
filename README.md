@@ -1,5 +1,5 @@
 # GAMP_MD
-MATLAB codes for the paper: Zheng Cao, Jisheng Dai, Weichao Xu and Weizu Xiong. "Fast Frequency Sparsity Learning Approach for Missing Data-Resistant Bearing Fault Diagnosis"
+MATLAB codes for the paper: Zheng Cao, Jisheng Dai, Weichao Xu and Weizu Xiong. "Fast Frequency Sparsity Learning Approach for Missing Data-Resistant Bearing Fault Diagnosis." IEEE Transactions on Instrumentation and Measurement, 2025.
 
 "Experiment_Case_II.m" will generate Fig. 15 and Fig. 16 in the paper.
 
